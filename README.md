@@ -59,4 +59,43 @@ Enter the URL to scrape: https://example.com
 ```
 
 ---
+## 📤 Sample Output
+
+```
+Title: Example Domain
+
+Headings:
+- Example Heading
+
+Links:
+- More information: https://www.iana.org/domains/example
+```
+
+---
+
+## ⚠️ Notes
+
+* Use scraping responsibly and ethically
+* Some websites may block scraping without a proper User-Agent
+* Always respect `robots.txt` and website terms
+
+---
+
+## 📈 Future Improvements
+
+* Add User-Agent headers
+* Export data to CSV or JSON
+* Scrape images and paragraphs
+* Build a GUI or Flask-based web app
+
+---
+
+## 👨‍💻 Author
+
+**Jitendra KanhaiyaSingh Gaherwar**
+Python | Data Analyst | Machine Learning Enthusiast
+
+---
+
+⭐ If you like this project, don’t forget to star the repository!
 
